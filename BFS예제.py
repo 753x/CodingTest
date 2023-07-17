@@ -29,5 +29,5 @@ graph = [
 
 visited = [False] * 9
 
-# 함수 호출
+# 함수호출
 bfs(graph, 1, visited)

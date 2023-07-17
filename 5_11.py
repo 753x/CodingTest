@@ -37,5 +37,5 @@ def bfs(x,y):
     # 가장 오른쪽 아래까지의 최단 거리 반환
     return graph[n - 1][m - 1]
 
-# 출력
+# 출 력
 print(bfs(0,0))
